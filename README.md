@@ -1,7 +1,8 @@
 # JuliaClimate
 
+Here are things you'll find in this organization.
 
-## packages
+## Julia Packages
 
 - [MeshArrays.jl](https://github.com/JuliaClimate/MeshArrays.jl) : Gridded earth variables, domain decomposition, and climate model C-grid support
 - [IndividualDisplacements.jl](https://github.com/JuliaClimate/IndividualDisplacements.jl) : Trajectory simulations for point particles in Ocean, Atmosphere, etc flow fields
@@ -15,7 +16,7 @@
 - [INMET.jl](https://github.com/JuliaClimate/INMET.jl) : Julia API to access data from the Instituto Nacional de Metereologia (INMET)
 - [CDSAPI.jl](https://github.com/JuliaClimate/CDSAPI.jl) : Julia API to the Climate Data Store (a.k.a. CDS)
 
-## more
+## More
 
 - [meta](https://github.com/JuliaClimate/meta) : For discussions about JuliaClimate implementations
 - [www.juliaclimate.org](https://github.com/JuliaClimate/www.juliaclimate.org) : website dedicated to the org
